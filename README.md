@@ -1,5 +1,5 @@
 # Switching to Zsh + Oh My Zsh Setup
-Install and configure Zsh with Oh My Zsh, autosuggestions, syntax highlighting, and fzf-tab.
+Install and configure Zsh with Oh My Zsh, autosuggestions, zsh-completions, syntax highlighting, and fzf-tab.
 
 ## 1. Install System Packages
 ```bash
